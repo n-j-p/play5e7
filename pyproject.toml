@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "play5e7"
+version = "0.1"
+
+authors = [{name = "n-j-p"}]
+description = "Kaggle.com playground season 5 episode 7 competition."
+readme = "README.md"
+license = {file = "LICENSE"}
